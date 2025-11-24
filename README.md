@@ -71,8 +71,8 @@ The project involves **Cleaning Raw Data**, **Performing Exploratory Data Analys
 1. Clone this repository
 
    ```bash
-   git clone https://github.com/your-username/airbnb-paris-analysis.git
-   cd airbnb-paris-analysis
+   git clone https://github.com/your-username/Airbnb_Paris_Analysis.git
+   cd Airbnb_Paris_Analysis
    ```
 
 2. Install dependencies
@@ -87,7 +87,7 @@ The project involves **Cleaning Raw Data**, **Performing Exploratory Data Analys
    jupyter notebook
    ```
 
-4. Open `airbnb-paris-analysis.ipynb` and run the cells step by step.
+4. Open `Airbnb_Paris_Analysis.ipynb` and run the cells step by step.
 
 ---
 
