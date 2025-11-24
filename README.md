@@ -11,13 +11,13 @@ The project involves **Cleaning Raw Data**, **Performing Exploratory Data Analys
 
 ## 📌 Objectives
 
-**-Analyze Supply Growth:** Track how the number of listings changed between 2008 and 2021.
+- **Analyze Supply Growth:** Track how the number of listings changed between 2008 and 2021.
 
-**-Evaluate Regulations:** Measure the impact of the 2017 rental laws on new hosts joining the market.
+- **Evaluate Regulations:** Measure the impact of the 2017 rental laws on new hosts joining the market.
 
-**-Study Pricing:** Compare prices across different neighborhoods to understand affordability.
+- **Study Pricing:** Compare prices across different neighborhoods to understand affordability.
 
-**-Capacity vs. Price:** examine the link between a property’s size (guest capacity) and its nightly rate.
+- **Capacity vs. Price:** examine the link between a property’s size (guest capacity) and its nightly rate.
 
-Business Strategy: Provide data-driven recommendations for stakeholders.
+- **Business Strategy:** Provide data-driven recommendations for stakeholders.
 
